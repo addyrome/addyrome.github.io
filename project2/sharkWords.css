@@ -1,0 +1,16 @@
+body {
+  margin: 20px;
+  text-align: center;
+  background:  #99ccff;
+}
+h1 {
+  color: #00004d;
+  font-family: rockwell;
+  font-size: 330%;
+  text-decoration: underline;
+}
+p  {
+  color: red;
+  font-family: courier;
+  font-size: 160%;
+}
